@@ -20,3 +20,6 @@ This is attempt of creating platform game with neuron network which would be lea
 * Left Arrow - stop playing recorded game
 * R - randomise neuron network weights
 * Q - let neuron network start/stop playing
+
+## Map editor
+* https://github.com/DehydratedWater/Platform-Game-2D-Map-Editor
