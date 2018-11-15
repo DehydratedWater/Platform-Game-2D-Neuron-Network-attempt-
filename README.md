@@ -1,4 +1,4 @@
-# Platform-Game-2D-Neuron-Network (attempt)
+# Platform-Game-2D-Neuron-Network (attempt) (2016-July)
 This is attempt of creating platform game with neuron network which would be learning on player moves to play it. Unfortunetely I wasnt able to make neuron network learn correctly, so i decided to start with something easier.. detecting numbers
 
 ![alt text](https://github.com/DehydratedWater/Platform-Game-2D-Neuron-Network-attempt-/blob/master/2Dgame1.png)
